@@ -17,14 +17,7 @@ Motivated and skilled Front-End Developer with experience in creating and valida
 
 ## Skills
 
-- HTML
-- CSS
-- Bootstrap
-- Tailwind
-- JavaScript
-- React JS
-- Node JS
-- SQL
+- HTML - CSS - Bootstrap - Tailwind - JavaScript - React JS - Node JS - SQL
 
 ## Projects
 
