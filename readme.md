@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek--Sidnal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-sidnal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Abhishek--Sidnal-lightgrey?style=flat&logo=github)](https://github.com/Abhishek-Sidnal/)
+[![Instagram](https://img.shields.io/badge/Instagram-apsidnal-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/apsidnal/)
+[![X](https://img.shields.io/badge/X-apsidnal-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/apsidnal)
 
 ---
 
@@ -60,4 +62,5 @@ Motivated and skilled **Front-End Developer** with experience in creating and va
 ## 📫 Contact
 
 - **Email**: [apsidnal@gmail.com](mailto:apsidnal@gmail.com)
-
+- **Instagram**: [@apsidnal](https://www.instagram.com/apsidnal/)
+- **X**: [@apsidnal](https://x.com/apsidnal)
