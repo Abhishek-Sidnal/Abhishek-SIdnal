@@ -64,3 +64,9 @@ Motivated and skilled **Front-End Developer** with experience in creating and va
 - **Email**: [apsidnal@gmail.com](mailto:apsidnal@gmail.com)
 - **Instagram**: [@apsidnal](https://www.instagram.com/apsidnal/)
 - **X**: [@apsidnal](https://x.com/apsidnal)
+
+---
+
+## 👥 Total Profile Visits
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Sidnal&color=blue)
