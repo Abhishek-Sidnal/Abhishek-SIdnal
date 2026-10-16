@@ -1,74 +1,51 @@
-# 🧑‍💻 Abhishek Sidnal
+# Hi, I'm Abhishek 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Abhishek--Sidnal-00C7B7?style=flat&logo=internet-explorer&logoColor=white)](https://apsidnal.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek--Sidnal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-sidnal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhishek--Sidnal-lightgrey?style=flat&logo=github)](https://github.com/Abhishek-Sidnal/)
+Full-stack developer in Hyderabad. I build multi-tenant SaaS with **Node.js, React, Angular and Azure**, and I like owning a feature from the database to the last pixel.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-apsidnal.in-00C7B7?style=flat&logo=googlechrome&logoColor=white)](https://apsidnal.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-apsidnal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apsidnal/)
+[![Email](https://img.shields.io/badge/Email-sidnalap051%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sidnalap051@gmail.com)
+[![X](https://img.shields.io/badge/X-apsidnal-000000?style=flat&logo=x&logoColor=white)](https://x.com/apsidnal/)
 [![Instagram](https://img.shields.io/badge/Instagram-apsidnal-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/apsidnal/)
-[![X](https://img.shields.io/badge/X-apsidnal-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/apsidnal/)
-
 
 ---
 
-## 📝 Summary
+### 🚀 Right now
 
-Motivated and skilled **Front-End Developer** with experience in creating and validating web components, developing responsive web pages, and collaborating with teams using HTML, CSS, Bootstrap, and React JS. I am eager to contribute to innovative and user-centric web solutions.
+- **Full-stack developer at [bFirst.ai](https://bfirst.ai)** (since May 2025), working on [**AccuMax**](https://accumax.ai), a practice-management platform for CPA and tax firms.
+- I work across the API, three web portals and an AI document-processing service. Recent work:
+  - client intake and tax organizer, from template builder to the client's questionnaire
+  - the workflow engine and its migration off the legacy system
+  - secure document management, file sharing between client accounts and e-signature
+  - real-time notifications over Socket.IO
+  - tenant isolation, access control and security hardening
+  - PII masking before documents reach an AI model
+- Building **[PR Buddy](https://github.com/Abhishek-Sidnal/pr-buddy)** in the open: a pull-request review assistant.
 
----
+### 🛠️ What I work with
 
-## 💼 Experience
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,angular,nodejs,express,mongodb,redis,tailwind,materialui,azure,git,githubactions" alt="JavaScript, TypeScript, React, Redux, Angular, Node.js, Express, MongoDB, Redis, Tailwind CSS, Material UI, Azure, Git, GitHub Actions" />
+</p>
 
-### PureCode AI R&D India Pvt Ltd (Internship) | Dec 2023 - Jun 2024
-- 🚀 Assisted in the development of web applications by writing clean, efficient code, contributing to a **15% increase in overall application performance**.
-- 🛠️ Participated in code reviews and team meetings to improve coding standards and practices, leading to a **20% reduction in code-related issues**.
-- 🐛 Worked on bug fixes and enhancements for existing projects.
-- 🎨 Gained hands-on experience with frontend development tools and frameworks.
+Also: Socket.IO, RxJS, shadcn/ui, Microsoft Graph and SharePoint, DocuSign, Azure Blob Storage and Event Grid, JWT (RS256), MFA.
 
----
+### 📌 Featured projects
 
-## 🛠 Skills
+| Project | What it is | Built with |
+|---|---|---|
+| [**PR Buddy**](https://github.com/Abhishek-Sidnal/pr-buddy) | Reviews GitHub pull requests and reports a few actionable findings with the evidence for each. Deterministic rules plus an optional AI reviewer; runs as a GitHub App with a dashboard. | TypeScript, Node.js, React, PostgreSQL |
+| [**My Blog**](https://frontend-75cg.onrender.com/) · [code](https://github.com/Abhishek-Sidnal/Blog--MERN-) | Full-stack blog with sign-in, writing and editing posts, and image uploads. | React, Tailwind CSS, Node.js, Express, MongoDB, Cloudinary, JWT |
+| [**Weather App**](https://weatherbyaps.netlify.app/) | Live weather by city, with clear error handling. | React, Material UI, OpenWeatherMap API |
 
-- **Languages & Technologies**:
-  - HTML, CSS, Bootstrap, Tailwind
-  - JavaScript, React JS, Node JS, SQL
+### 🧭 Before this
 
----
-
-## 🌟 Projects
-
-### 🌤 [Weather App](https://weatherbyaps.netlify.app/) | React Weather Application
-- Developed a responsive weather application using React, MUI (Material-UI), and react-hot-toast, featuring real-time weather information retrieval, error handling, and notifications.
-- **Technologies**: React, JavaScript, MUI (Material-UI), react-hot-toast, OpenWeatherMap API.
-
-### ✍️ [My Blog’s](https://frontend-75cg.onrender.com/) | Full-Stack Blog Application
-- Developed a responsive blog application with features such as user authentication, post creation, and editing. Integrated image uploads using Cloudinary, and implemented secure JWT-based authentication for user sessions.
-- **Technologies**: React JS, Tailwind CSS, Node.js, Express, MongoDB, Cloudinary, JWT.
-
----
-
-## 🎓 Education
-
-- **Jain University, Bengaluru**
-  - **MCA** | Jul 2023 – Jul 2025
-
-- **KLE College, Belagavi**
-  - **BCA** | Jun 2019 – Sept 2022
+- **Frontend developer intern, PureCode AI**, Dec 2023 – Jun 2024: responsive React apps and reusable components.
+- **MCA**, Jain (Deemed-to-be) University, Bengaluru, 2023 – 2025
+- **BCA**, KLE Society's Lingaraj College, Belagavi, 2019 – 2023
 
 ---
 
-## 📜 Certifications
-
-- **Java Full Stack Development** from KodNest (Bangalore)
-
----
-
-## 📫 Contact
-
-- **Email**: [apsidnal@gmail.com](mailto:apsidnal@gmail.com)
-- **Instagram**: [@apsidnal](https://www.instagram.com/apsidnal/)
-- **X**: [@apsidnal](https://x.com/apsidnal)
-
----
-
-## 👥 Total Profile Visits
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Sidnal&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Sidnal&color=blue&style=flat" alt="Profile views" />
+</p>
